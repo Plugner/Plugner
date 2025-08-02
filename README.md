@@ -2,7 +2,7 @@
 
 <h3 align="center">A versatile developer from Brazil 🇧🇷</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plugner&theme=dracula&rank=-C,-?" alt="plugner" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plugner&theme=dracula&rank=-C,-?" alt="plugner" /></a> </p>
 
 <strong>About Me</strong>
 
