@@ -1,33 +1,27 @@
-<h1 align="center">Hi 👋, I'm João Rodrigo</h1>
+<h1 align="center">Hey! 👋, I'm João Rodrigo</h1>
+
 <h3 align="center">A versatile developer from Brazil 🇧🇷</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plugner" alt="plugner" /></a> </p>
 
-- 🤖 I’m currently working on [a FIRST Robotics Competition team](https://github.com/frc9611)
 
-- 🌱 I’m currently learning **C, Laravel and Spring**
+<strong>About Me</strong>
 
-- 👯 I’m used to collaborate on [Minecraft Servers and Plugins](https://github.com/Plugner/PowerEssentials)
-
-- 🤝 I’m starting to develop [Raw TCP communications on unionCore](https://github.com/DevUnionRobotics/unionCore)
-
-- 👨‍💻 All of my projects are available at [joaorodrigo.eu](joaorodrigo.eu)
-
-- 📝 I regularly write articles on [blog.joaorodrigo.eu](blog.joaorodrigo.eu)
-
-- 💬 Ask me about **Java, PHP, LaTeX and Robotics**
-
-- 📫 How to reach me **joao.luckow@protonmail.com**
-
-- 📄 Know about my experiences [resume.joaorodrigo.eu](resume.joaorodrigo.eu)
-
-- ⚡ Curious fact **I have 17 years and I started coding Minecraft plugins 10 years ago**
+- 🚀 <strong>Driven and versatile developer</strong> with 10+ years of experience, passionate about building systems using cutting-edge tools in Java, PHP, C, and more.
+- 🤖 Currently contributing to [a FIRST Robotics Competition team](https://github.com/frc9611), leading the R&D division for the last two years, applying engineering and teamwork skills to real-world challenges.
+- 🥉 <strong>FEBRACE award winner (22nd & 23rd editions):</strong> Recognized for applications in Blockchain and Cryptography using embedded systems.
+- 🛡️ <strong>Information Security Enthusiast:</strong> Discovered and responsibly reported critical vulnerabilities in major Brazilian companies.
+- 👨‍ Experienced in collaborative development, including [Minecraft Servers and Plugins](https://github.com/Plugner/PowerEssentials) and other open-source projects.
+- 🌱 Always learning: Currently deepening expertise in C, Laravel, and Spring.
+- 💬 Strong communicator and problem solver, eager to share knowledge and contribute to high-performing teams.
+- 📫 <strong>Contact:</strong> joao.luckow@protonmail.com
+- 📄 <strong>More about my experience:</strong> [LinkedIn](https://linkedin.com/in/jrhluckow)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jrhluckow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrhluckow" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jrhluckow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jrhluckow" height="30" width="40" /></a>
-<a href="https://discord.gg/@plugner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@plugner" height="30" width="40" /></a>
+<a href="https://discord.com/users/589578596541136929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@plugner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
