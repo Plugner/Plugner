@@ -8,7 +8,7 @@
 
 - 🚀 <strong>Driven and versatile developer</strong> with 10+ years of experience, passionate about building systems using cutting-edge tools in Java, PHP, C, and more.
 - 🤖 Currently contributing to [a FIRST Robotics Competition team](https://github.com/frc9611), leading the R&D division for the last two years, applying engineering and teamwork skills to real-world challenges.
-- 🥉 <strong>FEBRACE award winner (22nd & 23rd editions):</strong> Recognized for applications in Blockchain and Cryptography using embedded systems.
+- 🥉 <strong>22nd and 23rd FEBRACE award winner - </strong> Applications in [Blockchain](https://github.com/ICJoinville/BlockchainDemo) and [Cryptography](https://github.com/ICJoinville/CriptoBox) using embedded systems.
 - 🛡️ <strong>Information Security Enthusiast:</strong> Discovered and responsibly reported critical vulnerabilities in major Brazilian companies.
 - 👨‍ Experienced in collaborative development, including [Minecraft Servers and Plugins](https://github.com/Plugner/PowerEssentials) and other open-source projects.
 - 🌱 Always learning: Currently deepening expertise in C, Laravel, and Spring.
