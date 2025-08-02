@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm João Rodrigo</h1>
+<h1 align="center">👋 Hey! I'm João Rodrigo</h1>
 
 <h3 align="center">A versatile developer from Brazil 🇧🇷</h3>
 
