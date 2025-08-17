@@ -11,8 +11,8 @@
 - 🥉 <strong>22nd and 23rd FEBRACE award winner - </strong> Applications in [Blockchain](https://github.com/ICJoinville/BlockchainDemo) and [Cryptography](https://github.com/ICJoinville/CriptoBox) using embedded systems.
 - 🛡️ <strong>Information Security Enthusiast:</strong> Discovered and responsibly reported critical vulnerabilities in major Brazilian companies.
 - 👨‍ Experienced in collaborative development, including [Minecraft Servers and Plugins](https://github.com/Plugner/PowerEssentials) and other open-source projects.
-- 🌱 Always learning: Currently deepening expertise in C, Laravel, and Spring.
-- 💬 Strong communicator and problem solver, eager to share knowledge and contribute to high-performing teams.
+- 🌱 Currently learning C, Laravel, and Spring.
+- 💬 Strong communicator and problem solver, sharing knowledge and contributing to high-performing robotic teams.
 - 📫 <strong>Contact:</strong> joao.luckow@protonmail.com
 - 📄 <strong>More about my experience:</strong> [LinkedIn](https://linkedin.com/in/jrhluckow)
 
