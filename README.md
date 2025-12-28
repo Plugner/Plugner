@@ -1,18 +1,18 @@
-<h1 align="center">👋 Hey! I'm João Rodrigo</h1>
+<h1 align="center">👋 Hello! I'm João Rodrigo</h1>
 
-<h3 align="center">A versatile developer from Brazil 🇧🇷</h3>
+<h3 align="center">A developer from Brazil 🇧🇷</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plugner&theme=dracula&rank=-C,-?" alt="plugner" /></a> </p>
 
 <strong>About Me</strong>
 
-- 🚀 <strong>Driven and versatile developer</strong> with 10+ years of experience, passionate about building systems using cutting-edge tools in Java, PHP, C, and more.
-- 🤖 Currently contributing to [a FIRST Robotics Competition team](https://github.com/frc9611), leading the R&D division for the last two years, applying engineering and teamwork skills to real-world challenges.
+- 🚀 <strong>Experient and versatile developer</strong> with 10+ years of experience, building systems using cutting-edge tools in Java, PHP and more.
+- 🤖 Currently contributing to [a FIRST Robotics Competition team](https://github.com/frc9611), leading and mentoring the R&D division for the last two years, applying engineering and teamwork skills to real-world challenges.
 - 🥉 <strong>22nd and 23rd FEBRACE award winner - </strong> Applications in [Blockchain](https://github.com/ICJoinville/BlockchainDemo) and [Cryptography](https://github.com/ICJoinville/CriptoBox) using embedded systems.
 - 🛡️ <strong>Information Security Enthusiast:</strong> Discovered and responsibly reported critical vulnerabilities in major Brazilian companies.
 - 👨‍ Experienced in collaborative development, including [Minecraft Servers and Plugins](https://github.com/Plugner/PowerEssentials) and other open-source projects.
-- 🌱 Currently learning C, Laravel, and Spring.
-- 💬 Strong communicator and problem solver, sharing knowledge and contributing to high-performing robotic teams.
+- 🌱 Currently learning Spring and Kubernetes.
+- 💬 Strong communicator and problem solver, sharing knowledge and contributing to high-performing robotic teams and tournaments around the globe.
 - 📫 <strong>Contact:</strong> joao.luckow@protonmail.com
 - 📄 <strong>More about my experience:</strong> [LinkedIn](https://linkedin.com/in/jrhluckow)
 
