@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm João Rodrigo</h1>
 
-<h3 align="center">Software Engineer at [@px-center](https://github.com/px-center)</h3>
+<h3 align="center">Software Engineer at @px-center</h3>
 
 <strong>About Me</strong>
 
