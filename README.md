@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm João Rodrigo</h1>
 
-<h3 align="center">A developer from Brazil 🇧🇷</h3>
+<h3 align="center">Software Engineer at [@px-center](https://github.com/px-center)</h3>
 
 <strong>About Me</strong>
 
@@ -10,7 +10,7 @@
 - 🛡️ <strong>Information Security Enthusiast:</strong> Discovered and responsibly reported critical vulnerabilities in major Brazilian companies.
 - 👨‍ Experienced in collaborative development, including [Minecraft Servers and Plugins](https://github.com/Plugner/PowerEssentials) and other open-source projects.
 - 🌱 Currently learning Spring and Kubernetes.
-- 💬 Strong communicator and problem solver, sharing knowledge and contributing to high-performing robotic teams and tournaments around the globe.
+- 💬 Strong communicator and problem solver, sharing knowledge and contributing to high-performing FIRST robotics teams and tournaments around the globe.
 - 📫 <strong>Contact:</strong> joao.luckow@protonmail.com
 - 📄 <strong>More about my experience:</strong> [LinkedIn](https://linkedin.com/in/jrhluckow)
 
